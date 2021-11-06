@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/cameraroll": "^4.1.2",
+    "@react-native-google-signin/google-signin": "^7.0.1",
+    "fbjs": "^0.8.18",
     "react": "17.0.2",
     "react-native": "0.66.2"
   },
